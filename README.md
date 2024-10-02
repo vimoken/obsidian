@@ -1,1 +1,1 @@
-Hallo I bims
+-  Navigation bezieht sich auf den mittleren Block --> lässt sich unter body bearbeiten
